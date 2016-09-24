@@ -1,2 +1,2 @@
 # hello-world
-Learning GitHub basics
+I'm making a test repository to learn GitHub basics. Making a new commit now.
